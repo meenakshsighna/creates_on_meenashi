@@ -1,0 +1,6 @@
+# Remove repository configuration
+git config --unset [key]
+# Remove global configuration
+git config --global --unset [key]
+# Remove system configuration
+git config --system --unset [key]
